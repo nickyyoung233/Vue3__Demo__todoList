@@ -6481,7 +6481,7 @@ const ss = (e) => (ei("data-v-f3aeae61"), (e = e()), ti(), e),
         component: () =>
           Sf(
             () => import("./AboutView-1b5fdd22.js"),
-            ["assets/AboutView-1b5fdd22.js", "assets/AboutView-2d0b72df.css"]
+            ["AboutView-1b5fdd22.js", "AboutView-2d0b72df.css"]
           ),
       },
     ],
